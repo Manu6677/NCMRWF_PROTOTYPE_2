@@ -388,12 +388,17 @@ export default function Index() {
             </p>
           </div>
           <div className="flex items-center gap-4">
-            <Button variant="outline" size="sm" className="hidden sm:flex">
+            {/* <Button
+              variant="outline"
+              size="sm"
+              className="hidden sm:flex bg-white text-gray-500"
+            >
               <Search className="h-4 w-4 mr-2" />
               Quick Search
-            </Button>
+            </Button> */}
             <Button
               variant="outline"
+              className=" bg-white text-gray-500"
               size="sm"
               onClick={() => setTheme(theme === "dark" ? "light" : "dark")}
             >
