@@ -381,10 +381,10 @@ export default function Index() {
         <div className="flex items-center justify-between px-6 py-4">
           <div>
             <h1 className="text-2xl font-bold text-foreground">
-              MeteoViz Dashboard
+              Products Dashboard
             </h1>
             <p className="text-sm text-muted-foreground">
-              Environmental Forecasting & Data Visualization Platform
+              National Centre for Medium Range Weather Forecasting
             </p>
           </div>
           <div className="flex items-center gap-4">
