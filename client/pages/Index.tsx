@@ -728,14 +728,14 @@ export default function Index() {
                   <Layers className="h-12 w-12 text-accent" />
                 </div>
                 <h2 className="text-xl font-semibold mb-2">
-                  Welcome to MeteoViz Dashboard
+                  Welcome to Products Dashboard
                 </h2>
                 <p className="text-muted-foreground mb-6">
                   Select a product from the navigation tree to explore
                   meteorological forecast data with advanced filtering options.
                 </p>
                 <div className="text-sm text-muted-foreground space-y-1">
-                  <p>• Browse GFS, WRF, and IMD forecast products</p>
+                  <p>• Browse Model, Special, and Bimsteck products</p>
                   <p>• Apply date, time, and pressure level filters</p>
                   <p>• View high-resolution forecast visualizations</p>
                 </div>
